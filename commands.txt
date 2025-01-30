@@ -1,0 +1,3 @@
+git innit=>for initiazing git 
+
+git status=>for listing untracked files
