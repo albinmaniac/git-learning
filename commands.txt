@@ -10,3 +10,7 @@ git config --global user.name "albinmaniac"
 
 git config --global user.email "www.albinmania@gmail.com"
 
+git remote add remote_name(origin) github_path(link)
+
+git push remote_name path_name(master)
+
